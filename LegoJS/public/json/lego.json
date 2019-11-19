@@ -1,0 +1,27 @@
+{
+    "lego" : 
+    [
+        {
+            "Nome" : "LEGO 7239 Fire Rescue Truck",
+            "SetNumber" : "7239",
+            "SetTheme" : "City",
+            "SetName" : "Fire Rescue Truck",
+            "Year": 2005,
+            "Link" : "https://letsbuilditagain.com/free-lego-instructions.php?q=7239",
+            "ImageSRC" : "Lego1.jpg",
+            "Prezzo" : 149.00,
+            "maxInstructionImage": 72
+        },
+        {
+            "Nome" : "LEGO 1296 Scooper",
+            "SetNumber": "1296",
+            "SetTheme": "City",
+            "SetName": "Scooper",
+            "Year": 2005,
+            "Link" : "https://letsbuilditagain.com/free-lego-instructions.php?q=1296",
+            "ImageSRC" : "Lego2.jpg",
+            "Prezzo" : 199.90,
+            "maxInstructionImage": 6
+        }
+    ]
+}
